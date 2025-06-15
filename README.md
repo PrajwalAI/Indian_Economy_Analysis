@@ -49,9 +49,9 @@ Each column represents time-series data for the Indian economy over multiple yea
 - Jupyter Notebook for interactive analysis
 
 ## 📸 Visualizations
-<img width="1106" alt="Screenshot 2025-06-15 at 8 37 01 PM" src="https://github.com/user-attachments/assets/1daf1dc6-7ae3-4dc7-8a95-3fe8bef5d326" />
+<img width="200" alt="Screenshot 2025-06-15 at 8 37 01 PM" src="https://github.com/user-attachments/assets/1daf1dc6-7ae3-4dc7-8a95-3fe8bef5d326" />
 
-<img width="1107" alt="Screenshot 2025-06-15 at 8 36 27 PM" src="https://github.com/user-attachments/assets/6630fe3c-0657-4907-b959-6c5aaac2d5d4" />
+<img width="200" alt="Screenshot 2025-06-15 at 8 36 27 PM" src="https://github.com/user-attachments/assets/6630fe3c-0657-4907-b959-6c5aaac2d5d4" />
 
 <img width="1105" alt="Screenshot 2025-06-15 at 8 36 05 PM" src="https://github.com/user-attachments/assets/ee9293ad-9cdf-46ad-9461-0355dfbbeb94" />
 
