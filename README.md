@@ -222,7 +222,7 @@ Hence we conclude that Phillips Curve is only weakly and inconsistently valid fo
 <img width="200" alt="Screenshot 2025-06-15 at 9 05 47 PM" src="https://github.com/user-attachments/assets/b6a5e261-65be-416c-8158-58cfd53bdced" />
 
 ##### LRAS
-<img width="582" alt="Screenshot 2025-06-15 at 9 06 24 PM" src="https://github.com/user-attachments/assets/7846d181-bfe0-409e-a500-f055afc69560" />
+<img width="350" alt="Screenshot 2025-06-15 at 9 06 24 PM" src="https://github.com/user-attachments/assets/7846d181-bfe0-409e-a500-f055afc69560" />
 
 Aggregate supply is the total amount of goods and services produced at a specific price point for a particular period. 
 GDP and inflation are usually positively correlated.
@@ -259,4 +259,4 @@ Typically, moderate inflation is considered a byproduct of a growing economy, es
 Finding: In India, inflation and GDP show weak to no correlation, hinting at non-demand factors like cost-push inflation and fiscal inefficiencies.
 
 ## 📌 Conclusion
-This project provides a quantitative lens to understand India's economic dynamics. The findings reveal that while some classical theories hold ground in certain periods, India’s economic landscape is nuanced and driven by multiple, often non-linear, forces. Further analysis using machine learning or longer datasets could yield even deeper insights.
+This project provides a quantitative lens to understand India's economic dynamics. The findings reveal that while some classical theories hold ground in certain periods, India’s economic landscape is nuanced and driven by multiple, often non-linear, forces. 
