@@ -179,11 +179,11 @@ Moderate Positive Correlations (0.5 ≤ r < 0.7):
 
 ### Empirical And Theoretical Models
 #### Okun's Law
-<img width="575" alt="Screenshot 2025-06-15 at 9 01 44 PM" src="https://github.com/user-attachments/assets/2b45e935-1c9a-45b6-9646-2f6cbb471d88" />
-<img width="557" alt="Screenshot 2025-06-15 at 9 02 04 PM" src="https://github.com/user-attachments/assets/6979d023-cdac-4aaa-9c7d-a1c023d7a3ba" />
-<img width="565" alt="Screenshot 2025-06-15 at 9 02 18 PM" src="https://github.com/user-attachments/assets/a7706317-f311-4869-ad35-585057cfda0c" />
-<img width="563" alt="Screenshot 2025-06-15 at 9 02 31 PM" src="https://github.com/user-attachments/assets/77a79b3f-ea04-43e1-8125-8ed471119b4c" />
-<img width="562" alt="Screenshot 2025-06-15 at 9 03 03 PM" src="https://github.com/user-attachments/assets/dab22cfa-cea5-4aaf-bce3-5b3426c64b3a" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 01 44 PM" src="https://github.com/user-attachments/assets/2b45e935-1c9a-45b6-9646-2f6cbb471d88" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 02 04 PM" src="https://github.com/user-attachments/assets/6979d023-cdac-4aaa-9c7d-a1c023d7a3ba" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 02 18 PM" src="https://github.com/user-attachments/assets/a7706317-f311-4869-ad35-585057cfda0c" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 02 31 PM" src="https://github.com/user-attachments/assets/77a79b3f-ea04-43e1-8125-8ed471119b4c" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 03 03 PM" src="https://github.com/user-attachments/assets/dab22cfa-cea5-4aaf-bce3-5b3426c64b3a" />
 
 Okun's law states that growth rate and unemployment rate have a high negative correlation i.e. When unemployment falls, GDP tends to rise — and vice versa.
 - For India's case the validity of okun's law goes as follows:
@@ -196,11 +196,11 @@ Okun's law states that growth rate and unemployment rate have a high negative co
 Hence we conclude that Okun's Law is only partially valid for Indian economical trends.
 
 #### Phillips Curve
-<img width="569" alt="Screenshot 2025-06-15 at 9 03 37 PM" src="https://github.com/user-attachments/assets/8dedbb62-6e74-4d02-9ebd-b919d63e3733" />
-<img width="570" alt="Screenshot 2025-06-15 at 9 03 48 PM" src="https://github.com/user-attachments/assets/cee713ad-b925-4b7d-9372-2643b7de8377" />
-<img width="560" alt="Screenshot 2025-06-15 at 9 03 59 PM" src="https://github.com/user-attachments/assets/aefe2f80-1b22-4c7a-be28-8374af1d1268" />
-<img width="568" alt="Screenshot 2025-06-15 at 9 04 10 PM" src="https://github.com/user-attachments/assets/f365841f-eada-4c32-bb07-fc777d18fd63" />
-<img width="570" alt="Screenshot 2025-06-15 at 9 04 22 PM" src="https://github.com/user-attachments/assets/1f81b3dc-366e-4059-9795-ca7ffeea99fb" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 03 37 PM" src="https://github.com/user-attachments/assets/8dedbb62-6e74-4d02-9ebd-b919d63e3733" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 03 48 PM" src="https://github.com/user-attachments/assets/cee713ad-b925-4b7d-9372-2643b7de8377" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 03 59 PM" src="https://github.com/user-attachments/assets/aefe2f80-1b22-4c7a-be28-8374af1d1268" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 04 10 PM" src="https://github.com/user-attachments/assets/f365841f-eada-4c32-bb07-fc777d18fd63" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 04 22 PM" src="https://github.com/user-attachments/assets/1f81b3dc-366e-4059-9795-ca7ffeea99fb" />
 
 The Phillips curve states that inflation and unemployment have an inverse relationship; higher inflation is associated with lower unemployment and vice versa.
 
@@ -215,11 +215,11 @@ Hence we conclude that Phillips Curve is only weakly and inconsistently valid fo
 
 #### Aggregate supply curve
 ##### SRAS
-<img width="565" alt="Screenshot 2025-06-15 at 9 04 56 PM" src="https://github.com/user-attachments/assets/2a42c010-5eb8-4c3c-b61f-e4b2ffd55517" />
-<img width="564" alt="Screenshot 2025-06-15 at 9 05 12 PM" src="https://github.com/user-attachments/assets/740fcb69-a207-450f-9579-ce21155a331f" />
-<img width="557" alt="Screenshot 2025-06-15 at 9 05 24 PM" src="https://github.com/user-attachments/assets/fff49735-8336-4d14-9e86-83536f96c9ff" />
-<img width="583" alt="Screenshot 2025-06-15 at 9 05 35 PM" src="https://github.com/user-attachments/assets/e0182e01-2e0d-432d-84fe-748a5885e894" />
-<img width="568" alt="Screenshot 2025-06-15 at 9 05 47 PM" src="https://github.com/user-attachments/assets/b6a5e261-65be-416c-8158-58cfd53bdced" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 04 56 PM" src="https://github.com/user-attachments/assets/2a42c010-5eb8-4c3c-b61f-e4b2ffd55517" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 05 12 PM" src="https://github.com/user-attachments/assets/740fcb69-a207-450f-9579-ce21155a331f" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 05 24 PM" src="https://github.com/user-attachments/assets/fff49735-8336-4d14-9e86-83536f96c9ff" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 05 35 PM" src="https://github.com/user-attachments/assets/e0182e01-2e0d-432d-84fe-748a5885e894" />
+<img width="200" alt="Screenshot 2025-06-15 at 9 05 47 PM" src="https://github.com/user-attachments/assets/b6a5e261-65be-416c-8158-58cfd53bdced" />
 
 ##### LRAS
 <img width="582" alt="Screenshot 2025-06-15 at 9 06 24 PM" src="https://github.com/user-attachments/assets/7846d181-bfe0-409e-a500-f055afc69560" />
