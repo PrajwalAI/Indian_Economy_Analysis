@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Economy Analysis
+# 🇮🇳 Macroeconomic Analysis of India
 A comprehensive macroeconomic analysis of India using data science tools. This project explores the relationships between various economic indicators and critically examines classical economic models in the Indian context.
 
 ## 📚 Data Sources
