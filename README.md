@@ -53,16 +53,16 @@ Each column represents time-series data for the Indian economy over multiple yea
 
 <img width="200" alt="Screenshot 2025-06-15 at 8 36 27 PM" src="https://github.com/user-attachments/assets/6630fe3c-0657-4907-b959-6c5aaac2d5d4" />
 
-<img width="1105" alt="Screenshot 2025-06-15 at 8 36 05 PM" src="https://github.com/user-attachments/assets/ee9293ad-9cdf-46ad-9461-0355dfbbeb94" />
+<img width="200" alt="Screenshot 2025-06-15 at 8 36 05 PM" src="https://github.com/user-attachments/assets/ee9293ad-9cdf-46ad-9461-0355dfbbeb94" />
 
-<img width="1106" alt="Screenshot 2025-06-15 at 8 35 51 PM" src="https://github.com/user-attachments/assets/d7be286b-b7b5-449b-b8f5-560311f81b30" />
+<img width="200" alt="Screenshot 2025-06-15 at 8 35 51 PM" src="https://github.com/user-attachments/assets/d7be286b-b7b5-449b-b8f5-560311f81b30" />
 
-<img width="1105" alt="Screenshot 2025-06-15 at 8 35 40 PM" src="https://github.com/user-attachments/assets/8d225d69-7b1e-4512-9043-81faf8664fce" />
-<img width="1102" alt="Screenshot 2025-06-15 at 8 35 05 PM" src="https://github.com/user-attachments/assets/19cfa5f4-f7fc-4d90-9db9-591dd25be542" />
+<img width="200" alt="Screenshot 2025-06-15 at 8 35 40 PM" src="https://github.com/user-attachments/assets/8d225d69-7b1e-4512-9043-81faf8664fce" />
+<img width="200" alt="Screenshot 2025-06-15 at 8 35 05 PM" src="https://github.com/user-attachments/assets/19cfa5f4-f7fc-4d90-9db9-591dd25be542" />
 
-<img width="1105" alt="Screenshot 2025-06-15 at 8 34 54 PM" src="https://github.com/user-attachments/assets/8ce7cd75-2e4e-46af-ab5e-ff066a28f44b" />
+<img width="200" alt="Screenshot 2025-06-15 at 8 34 54 PM" src="https://github.com/user-attachments/assets/8ce7cd75-2e4e-46af-ab5e-ff066a28f44b" />
 
-<img width="1102" alt="Screenshot 2025-06-15 at 8 35 05 PM" src="https://github.com/user-attachments/assets/e66d9b84-196d-4046-a488-836514fc01b0" />
+<img width="200" alt="Screenshot 2025-06-15 at 8 35 05 PM" src="https://github.com/user-attachments/assets/e66d9b84-196d-4046-a488-836514fc01b0" />
 
 📌 Key Insights
 - GDP per capita is strongly correlated with life expectancy, exchange rates, and fiscal indicators.
